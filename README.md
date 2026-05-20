@@ -12,6 +12,7 @@ This project was developed as part of the Hardware-Oriented Security course at t
 * **Hardware:** Arty S7-50 development board
 * **Target FPGA:** Spartan 7 (xc7s50csga324-2)
 * **Serial Communication:** Putty (or similar terminal emulator)
+<img width="998" height="562" alt="Y1469228-01" src="https://github.com/user-attachments/assets/245b4a27-df71-4196-b582-f0420cae149b" />
 
 ---
 
